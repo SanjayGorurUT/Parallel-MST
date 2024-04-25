@@ -1,3 +1,5 @@
+CONTRIBUTOR(s): Ritvik Mahendra
+
 Abstract
 
 This term paper will cover the implementation of parallel minimum spanning tree algorithms. The paper will demonstrate the parallel Boruvka algorithm, as well as the LLP variants of Prim’s and Kruskal’s algorithm implemented in Java, as well as a discussion on design choices in the algorithms. Finally, a comparison of the algorithms implemented will be discussed.
